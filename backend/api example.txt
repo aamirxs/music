@@ -1,0 +1,1694 @@
+Url= https://saavn.dev/api/search/songs?query=jo+tu+na+mil
+
+
+responce
+{
+    "success": true,
+    "data": {
+        "total": 58,
+        "start": -9,
+        "results": [
+            {
+                "id": "hK-HIbTL",
+                "name": "Jo Tu Na Mila (Lofi Flip)",
+                "type": "song",
+                "year": "2023",
+                "releaseDate": null,
+                "duration": 231,
+                "label": "Universal Music India Pvt Ltd.",
+                "explicitContent": false,
+                "playCount": 176202,
+                "language": "hindi",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila-lofi-flip/GCNGeT1SY38",
+                "copyright": "℗ 2023 Universal Music India Pvt. Ltd.",
+                "album": {
+                    "id": "48478164",
+                    "name": "Jo Tu Na Mila (Lofi Flip)",
+                    "url": "https://www.jiosaavn.com/album/jo-tu-na-mila-lofi-flip/H-sgZ9f4GYM_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "1165183",
+                            "name": "Silent Ocean",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Silent_Ocean_20200831102445_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Silent_Ocean_20200831102445_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Silent_Ocean_20200831102445_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/silent-ocean-songs/VVPcaUZaOOg_"
+                        },
+                        {
+                            "id": "710601",
+                            "name": "Kunaal Vermaa",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kunaal-vermaa-songs/DGLdKvhUtpU_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "477136",
+                            "name": "Hasan Ali",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/hasan-ali-songs/B25YrODFwCU_"
+                        },
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "1165183",
+                            "name": "Silent Ocean",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Silent_Ocean_20200831102445_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Silent_Ocean_20200831102445_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Silent_Ocean_20200831102445_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/silent-ocean-songs/VVPcaUZaOOg_"
+                        },
+                        {
+                            "id": "710601",
+                            "name": "Kunaal Vermaa",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kunaal-vermaa-songs/DGLdKvhUtpU_"
+                        },
+                        {
+                            "id": "455415",
+                            "name": "Sameer",
+                            "role": "lyricist",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Sameer-20170714064856_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Sameer-20170714064856_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Sameer-20170714064856_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/sameer-songs/zbXOIZIhW-8_"
+                        },
+                        {
+                            "id": "464898",
+                            "name": "Ajay Devgn",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ajay_Devgn_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ajay_Devgn_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ajay_Devgn_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ajay-devgn-songs/bqtJwawEXyk_"
+                        },
+                        {
+                            "id": "457314",
+                            "name": "Raveena Tandon",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Raveena_Tandon_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Raveena_Tandon_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Raveena_Tandon_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/raveena-tandon-songs/ELkWB4O5V6k_"
+                        },
+                        {
+                            "id": "467239",
+                            "name": "Suniel Shetty",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Suniel_Shetty_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Suniel_Shetty_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Suniel_Shetty_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/suniel-shetty-songs/Jlrowj6bvzM_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/974/Jo-Tu-Na-Mila-Lofi-Flip-Hindi-2023-20241210202428-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/974/Jo-Tu-Na-Mila-Lofi-Flip-Hindi-2023-20241210202428-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/974/Jo-Tu-Na-Mila-Lofi-Flip-Hindi-2023-20241210202428-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/974/924026c8ee9fcee636c9d975dff08010_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/974/924026c8ee9fcee636c9d975dff08010_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/974/924026c8ee9fcee636c9d975dff08010_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/974/924026c8ee9fcee636c9d975dff08010_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/974/924026c8ee9fcee636c9d975dff08010_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "poN1-tnf",
+                "name": "Jo Tu Na Mila (Acoustic)",
+                "type": "song",
+                "year": "2019",
+                "releaseDate": null,
+                "duration": 237,
+                "label": "Universal Music India Pvt Ltd.",
+                "explicitContent": false,
+                "playCount": 5864462,
+                "language": "hindi",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila-acoustic/AAclAFlEWVU",
+                "copyright": "℗ 2019 Universal Music India Pvt. Ltd.",
+                "album": {
+                    "id": "15104408",
+                    "name": "Jo Tu Na Mila (Acoustic)",
+                    "url": "https://www.jiosaavn.com/album/jo-tu-na-mila-acoustic/pPe2cTR49dc_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "477136",
+                            "name": "Hasan Ali",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/hasan-ali-songs/B25YrODFwCU_"
+                        },
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/679/Jo-Tu-Na-Mila-Acoustic--Hindi-2019-20190924083613-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/679/Jo-Tu-Na-Mila-Acoustic--Hindi-2019-20190924083613-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/679/Jo-Tu-Na-Mila-Acoustic--Hindi-2019-20190924083613-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/679/e35ff684af934edc254a57dbb5497280_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/679/e35ff684af934edc254a57dbb5497280_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/679/e35ff684af934edc254a57dbb5497280_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/679/e35ff684af934edc254a57dbb5497280_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/679/e35ff684af934edc254a57dbb5497280_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "zwD3hp6Y",
+                "name": "Jo Tu Na Mila",
+                "type": "song",
+                "year": "2018",
+                "releaseDate": null,
+                "duration": 234,
+                "label": "Universal Music India Pvt Ltd.",
+                "explicitContent": false,
+                "playCount": 66992985,
+                "language": "hindi",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila/Ch8vAhxAAWo",
+                "copyright": "℗ 2018 Universal Music India Pvt. Ltd.",
+                "album": {
+                    "id": "14415292",
+                    "name": "Jo Tu Na Mila",
+                    "url": "https://www.jiosaavn.com/album/jo-tu-na-mila/OXw4odPYPFg_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "710601",
+                            "name": "Kunaal Vermaa",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kunaal-vermaa-songs/DGLdKvhUtpU_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "477136",
+                            "name": "Hasan Ali",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/hasan-ali-songs/B25YrODFwCU_"
+                        },
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "710601",
+                            "name": "Kunaal Vermaa",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Kunaal_Vermaa_001_20230613121244_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kunaal-vermaa-songs/DGLdKvhUtpU_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/605/Jo-Tu-Na-Mila-Hindi-2018-20250124213347-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/605/Jo-Tu-Na-Mila-Hindi-2018-20250124213347-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/605/Jo-Tu-Na-Mila-Hindi-2018-20250124213347-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/605/c18c9f6fb2bc49cc4769b5753cda57e4_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/605/c18c9f6fb2bc49cc4769b5753cda57e4_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/605/c18c9f6fb2bc49cc4769b5753cda57e4_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/605/c18c9f6fb2bc49cc4769b5753cda57e4_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/605/c18c9f6fb2bc49cc4769b5753cda57e4_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "xmsslgU3",
+                "name": "Tu Jo Mila (Dekhna Na Mud Ke)",
+                "type": "song",
+                "year": "2015",
+                "releaseDate": null,
+                "duration": 249,
+                "label": "T-Series",
+                "explicitContent": false,
+                "playCount": 3584145,
+                "language": "hindi",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/tu-jo-mila-dekhna-na-mud-ke/CAUYQhhXYgA",
+                "copyright": "℗ 2015 Super Cassettes Industries Private Limited",
+                "album": {
+                    "id": "1251872",
+                    "name": "Bajrangi Bhaijaan",
+                    "url": "https://www.jiosaavn.com/album/bajrangi-bhaijaan/pUZwMR9kva0_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "456323",
+                            "name": "Pritam",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/pritam-songs/OaFg9HPZgq8_"
+                        },
+                        {
+                            "id": "455926",
+                            "name": "Javed Ali",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Javed_Ali_005_20240516065846_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Javed_Ali_005_20240516065846_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Javed_Ali_005_20240516065846_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/javed-ali-songs/iJXgfejIuJQ_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "456323",
+                            "name": "Pritam",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/pritam-songs/OaFg9HPZgq8_"
+                        },
+                        {
+                            "id": "456323",
+                            "name": "Pritam",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Pritam_Chakraborty-20170711073326_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/pritam-songs/OaFg9HPZgq8_"
+                        },
+                        {
+                            "id": "455926",
+                            "name": "Javed Ali",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Javed_Ali_005_20240516065846_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Javed_Ali_005_20240516065846_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Javed_Ali_005_20240516065846_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/javed-ali-songs/iJXgfejIuJQ_"
+                        },
+                        {
+                            "id": "461070",
+                            "name": "Kausar Munir",
+                            "role": "lyricist",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Kausar_Munir_20180416065948_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Kausar_Munir_20180416065948_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Kausar_Munir_20180416065948_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kausar-munir-songs/ZIoQfneojLU_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/128/Bajrangi-Bhaijaan-Hindi-2015-20241222131520-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/128/Bajrangi-Bhaijaan-Hindi-2015-20241222131520-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/128/Bajrangi-Bhaijaan-Hindi-2015-20241222131520-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/128/202f6feda53d344986716baffcfc3842_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/128/202f6feda53d344986716baffcfc3842_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/128/202f6feda53d344986716baffcfc3842_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/128/202f6feda53d344986716baffcfc3842_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/128/202f6feda53d344986716baffcfc3842_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "EpCRMEwr",
+                "name": "Jo Tu Na Mila (Acoustic / Lofi Flip)",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 216,
+                "label": "Universal Music India Pvt Ltd.",
+                "explicitContent": false,
+                "playCount": 300,
+                "language": "hindi",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila-acoustic-lofi-flip/NRgoYzl1QEE",
+                "copyright": "℗ 2024 Universal Music India Pvt. Ltd.",
+                "album": {
+                    "id": "56026231",
+                    "name": "Jo Tu Na Mila (Acoustic / Lofi Flip)",
+                    "url": "https://www.jiosaavn.com/album/jo-tu-na-mila-acoustic-lofi-flip/RZHq2flcNCI_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "1614157",
+                            "name": "Kedrock",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kedrock-songs/O5PyFmHSFMQ_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "477136",
+                            "name": "Hasan Ali",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/149/Pu-Sip--Kurdish-2017-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/hasan-ali-songs/B25YrODFwCU_"
+                        },
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "1614157",
+                            "name": "Kedrock",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kedrock-songs/O5PyFmHSFMQ_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/223/Jo-Tu-Na-Mila-Acoustic-Lofi-Flip-Hindi-2024-20240710053731-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/223/Jo-Tu-Na-Mila-Acoustic-Lofi-Flip-Hindi-2024-20240710053731-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/223/Jo-Tu-Na-Mila-Acoustic-Lofi-Flip-Hindi-2024-20240710053731-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/223/1f039e345c5dd547c7729642823d2dd6_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/223/1f039e345c5dd547c7729642823d2dd6_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/223/1f039e345c5dd547c7729642823d2dd6_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/223/1f039e345c5dd547c7729642823d2dd6_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/223/1f039e345c5dd547c7729642823d2dd6_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "w5occ3jo",
+                "name": "Jo Tu Na Mila",
+                "type": "song",
+                "year": "2021",
+                "releaseDate": null,
+                "duration": 240,
+                "label": "HSR Entertainment",
+                "explicitContent": false,
+                "playCount": 488,
+                "language": "hindi",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila/B10EUhcDXVw",
+                "copyright": "℗ 2021 HSR Entertainment",
+                "album": {
+                    "id": "29642232",
+                    "name": "Jo Tu Na Mila",
+                    "url": "https://www.jiosaavn.com/album/jo-tu-na-mila/WGjrP9GPKXY_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "464927",
+                            "name": "Zayed Khan",
+                            "role": "primary_artists",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/zayed-khan-songs/sAF,ptrX538_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "464927",
+                            "name": "Zayed Khan",
+                            "role": "music",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/zayed-khan-songs/sAF,ptrX538_"
+                        },
+                        {
+                            "id": "6948925",
+                            "name": "Oye Kunaal",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Oye_Kunaal_000_20220816092917_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Oye_Kunaal_000_20220816092917_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Oye_Kunaal_000_20220816092917_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/oye-kunaal-songs/tJTBxdDcI8c_"
+                        },
+                        {
+                            "id": "868012",
+                            "name": "Asim Azhar",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Asim_Azhar_20191130104807_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/asim-azhar-songs/yUKsykgnN0I_"
+                        },
+                        {
+                            "id": "1614157",
+                            "name": "Kedrock",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/549/Poltergeist-English-2016-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kedrock-songs/O5PyFmHSFMQ_"
+                        },
+                        {
+                            "id": "464927",
+                            "name": "Zayed Khan",
+                            "role": "lyricist",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/zayed-khan-songs/sAF,ptrX538_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/455/Jo-Tu-Na-Mila-Hindi-2021-20210913210232-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/455/Jo-Tu-Na-Mila-Hindi-2021-20210913210232-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/455/Jo-Tu-Na-Mila-Hindi-2021-20210913210232-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/455/a5492dfe2a9a13df9f41b4878d68a758_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/455/a5492dfe2a9a13df9f41b4878d68a758_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/455/a5492dfe2a9a13df9f41b4878d68a758_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/455/a5492dfe2a9a13df9f41b4878d68a758_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/455/a5492dfe2a9a13df9f41b4878d68a758_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "bekuKU76",
+                "name": "Jo Tu Na Mila",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 153,
+                "label": "AKKI NINDHANIYA",
+                "explicitContent": false,
+                "playCount": 14,
+                "language": "hindi",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila/Eg0ARD9lAAU",
+                "copyright": "© 2024 AKKI NINDHANIYA",
+                "album": {
+                    "id": "51842815",
+                    "name": "Confession",
+                    "url": "https://www.jiosaavn.com/album/confession/7Eae6cIYJx8_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "14406256",
+                            "name": "AKKI NINDHANIYA",
+                            "role": "primary_artists",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/akki-nindhaniya-songs/7D1UBQbeiwQ_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "464927",
+                            "name": "Zayed Khan",
+                            "role": "music",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/zayed-khan-songs/sAF,ptrX538_"
+                        },
+                        {
+                            "id": "6948925",
+                            "name": "Oye Kunaal",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Oye_Kunaal_000_20220816092917_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Oye_Kunaal_000_20220816092917_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Oye_Kunaal_000_20220816092917_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/oye-kunaal-songs/tJTBxdDcI8c_"
+                        },
+                        {
+                            "id": "14406256",
+                            "name": "AKKI NINDHANIYA",
+                            "role": "singer",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/akki-nindhaniya-songs/7D1UBQbeiwQ_"
+                        },
+                        {
+                            "id": "464927",
+                            "name": "Zayed Khan",
+                            "role": "lyricist",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/zayed-khan-songs/sAF,ptrX538_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/088/Confession-Hindi-2024-20240129192547-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/088/Confession-Hindi-2024-20240129192547-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/088/Confession-Hindi-2024-20240129192547-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/088/f55dba9589082b8be34323be328e1687_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/088/f55dba9589082b8be34323be328e1687_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/088/f55dba9589082b8be34323be328e1687_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/088/f55dba9589082b8be34323be328e1687_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/088/f55dba9589082b8be34323be328e1687_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "c9ZMZIWB",
+                "name": "Jo tu na mila",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 119,
+                "label": "Akay Dhariwal",
+                "explicitContent": false,
+                "playCount": 38,
+                "language": "hindi",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila/E1ExfC55YHE",
+                "copyright": "© 2024 Akay Dhariwal",
+                "album": {
+                    "id": "54380544",
+                    "name": "Jo tu na mila",
+                    "url": "https://www.jiosaavn.com/album/jo-tu-na-mila/a8NKkR9Vi2E_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "4587322",
+                            "name": "Aman Gupta",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/aman-gupta-songs/MxcUeHe72Pw_"
+                        }
+                    ],
+                    "featured": [
+                        {
+                            "id": "12025086",
+                            "name": "Preet Music Records",
+                            "role": "featured_artists",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/preet-music-records-songs/J3TROJNvJyc_"
+                        }
+                    ],
+                    "all": [
+                        {
+                            "id": "12025086",
+                            "name": "Preet Music Records",
+                            "role": "music",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/preet-music-records-songs/J3TROJNvJyc_"
+                        },
+                        {
+                            "id": "4587322",
+                            "name": "Aman Gupta",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/aman-gupta-songs/MxcUeHe72Pw_"
+                        },
+                        {
+                            "id": "4587322",
+                            "name": "Aman Gupta",
+                            "role": "lyricist",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/aman-gupta-songs/MxcUeHe72Pw_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/616/Jo-tu-na-mila-Hindi-2024-20240516174502-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/616/Jo-tu-na-mila-Hindi-2024-20240516174502-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/616/Jo-tu-na-mila-Hindi-2024-20240516174502-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/616/b16075d37e31fc97d3a18ed54f6349d2_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/616/b16075d37e31fc97d3a18ed54f6349d2_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/616/b16075d37e31fc97d3a18ed54f6349d2_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/616/b16075d37e31fc97d3a18ed54f6349d2_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/616/b16075d37e31fc97d3a18ed54f6349d2_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "aOsHdxkN",
+                "name": "Jo Tu Na Mila",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 122,
+                "label": "Jesse Varghese Johnson",
+                "explicitContent": false,
+                "playCount": 121,
+                "language": "hindi",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila/EScYeRBIXH0",
+                "copyright": "(P) 2024 Jesse Varghese Johnson",
+                "album": {
+                    "id": "55541409",
+                    "name": "Jo Tu Na Mila",
+                    "url": "https://www.jiosaavn.com/album/jo-tu-na-mila/zlnELj5-3fQ_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "818989",
+                            "name": "Jesse",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/033/Better-To-Lie-English-2018-20181128230900-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/033/Better-To-Lie-English-2018-20181128230900-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/033/Better-To-Lie-English-2018-20181128230900-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/jesse-songs/uHlSQIZwJ3Y_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "818989",
+                            "name": "Jesse",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/033/Better-To-Lie-English-2018-20181128230900-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/033/Better-To-Lie-English-2018-20181128230900-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/033/Better-To-Lie-English-2018-20181128230900-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/jesse-songs/uHlSQIZwJ3Y_"
+                        },
+                        {
+                            "id": "10469457",
+                            "name": "Kunal Vermaa",
+                            "role": "music",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kunal-vermaa-songs/XpsNQWA02D8_"
+                        },
+                        {
+                            "id": "10469457",
+                            "name": "Kunal Vermaa",
+                            "role": "lyricist",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kunal-vermaa-songs/XpsNQWA02D8_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/182/Jo-Tu-Na-Mila-Hindi-2024-20240624181922-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/182/Jo-Tu-Na-Mila-Hindi-2024-20240624181922-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/182/Jo-Tu-Na-Mila-Hindi-2024-20240624181922-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/182/00f28f8e88cc35bb68a085f201a9cc6b_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/182/00f28f8e88cc35bb68a085f201a9cc6b_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/182/00f28f8e88cc35bb68a085f201a9cc6b_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/182/00f28f8e88cc35bb68a085f201a9cc6b_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/182/00f28f8e88cc35bb68a085f201a9cc6b_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "vnOpV0bi",
+                "name": "Jo Tu Na Mila",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 77,
+                "label": "Tanuj Sanjod Music",
+                "explicitContent": false,
+                "playCount": 2,
+                "language": "hindi",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/jo-tu-na-mila/BgYkQSIAVVo",
+                "copyright": "© 2024 Tanuj Sanjod",
+                "album": {
+                    "id": "57875242",
+                    "name": "First Love",
+                    "url": "https://www.jiosaavn.com/album/first-love/bRcMVBhwgOk_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "16236785",
+                            "name": "Tanuj Sanjod",
+                            "role": "primary_artists",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/tanuj-sanjod-songs/7v9cLvIqgTQ_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "16236785",
+                            "name": "Tanuj Sanjod",
+                            "role": "music",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/tanuj-sanjod-songs/7v9cLvIqgTQ_"
+                        },
+                        {
+                            "id": "4587322",
+                            "name": "Aman Gupta",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/355/Muzic-N-Me-Punjabi-2012-20190618112258-500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/aman-gupta-songs/MxcUeHe72Pw_"
+                        },
+                        {
+                            "id": "10469457",
+                            "name": "Kunal Vermaa",
+                            "role": "lyricist",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/kunal-vermaa-songs/XpsNQWA02D8_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/759/First-Love-Hindi-2024-20240909210910-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/759/First-Love-Hindi-2024-20240909210910-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/759/First-Love-Hindi-2024-20240909210910-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/759/1d7d6e06ec412bce228ff1e0cecece58_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/759/1d7d6e06ec412bce228ff1e0cecece58_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/759/1d7d6e06ec412bce228ff1e0cecece58_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/759/1d7d6e06ec412bce228ff1e0cecece58_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/759/1d7d6e06ec412bce228ff1e0cecece58_320.mp4"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+
+
+

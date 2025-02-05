@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile - Music Player</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <!-- Navigation -->
+        <nav class="flex justify-between items-center mb-8">
+            <a href="/" class="text-xl font-bold hover:text-gray-700">
+                <i class="fas fa-chevron-left mr-2"></i>
+                Back to Player
+            </a>
+            <button onclick="logout()" class="bg-red-500 text-white px-4 py-2 rounded-full hover:bg-red-600 transition-colors">
+                Logout
+            </button>
+        </nav>
+
+        <!-- Profile Header -->
+        <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+            <div class="flex items-start justify-between">
+                <div class="flex items-center">
+                    <div class="w-24 h-24 bg-gray-300 rounded-full flex items-center justify-center text-4xl text-white" id="profileInitials">
+                        <!-- Initials will be added by JS -->
+                    </div>
+                    <div class="ml-6">
+                        <h1 class="text-3xl font-bold mb-2" id="profileName"></h1>
+                        <p class="text-gray-600" id="profileEmail"></p>
+                        <p class="text-sm text-gray-500" id="memberSince"></p>
+                    </div>
+                </div>
+                <button onclick="toggleEditProfile()" class="bg-black text-white px-4 py-2 rounded-full hover:bg-gray-800 transition-colors">
+                    Edit Profile
+                </button>
+            </div>
+        </div>
+
+        <!-- Edit Profile Form (Hidden by default) -->
+        <div id="editProfileForm" class="bg-white rounded-lg shadow-lg p-6 mb-8 hidden">
+            <h2 class="text-2xl font-bold mb-4">Edit Profile</h2>
+            <form id="profileForm" class="space-y-4">
+                <div>
+                    <label class="block text-gray-700 mb-2">Full Name</label>
+                    <input type="text" id="editFullName" class="w-full px-4 py-2 rounded-lg border focus:outline-none focus:border-black">
+                </div>
+                <div>
+                    <label class="block text-gray-700 mb-2">Email</label>
+                    <input type="email" id="editEmail" class="w-full px-4 py-2 rounded-lg border focus:outline-none focus:border-black">
+                </div>
+                <div>
+                    <label class="block text-gray-700 mb-2">New Password (leave blank to keep current)</label>
+                    <input type="password" id="editPassword" class="w-full px-4 py-2 rounded-lg border focus:outline-none focus:border-black">
+                </div>
+                <div class="flex justify-end space-x-4">
+                    <button type="button" onclick="toggleEditProfile()" class="px-4 py-2 rounded-full border hover:bg-gray-100 transition-colors">
+                        Cancel
+                    </button>
+                    <button type="submit" class="bg-black text-white px-4 py-2 rounded-full hover:bg-gray-800 transition-colors">
+                        Save Changes
+                    </button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Stats Section -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h3 class="text-xl font-semibold mb-2">Favorites</h3>
+                <p class="text-3xl font-bold" id="favoritesCount">0</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h3 class="text-xl font-semibold mb-2">Playlists</h3>
+                <p class="text-3xl font-bold" id="playlistsCount">0</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h3 class="text-xl font-semibold mb-2">Songs Played</h3>
+                <p class="text-3xl font-bold" id="songsPlayedCount">0</p>
+            </div>
+        </div>
+
+        <!-- Favorites Section -->
+        <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-4">Your Favorites</h2>
+            <div id="favoritesList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <!-- Favorites will be populated here -->
+            </div>
+        </div>
+
+        <!-- Recently Played Section -->
+        <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-4">Recently Played</h2>
+            <div id="recentlyPlayedList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <!-- Recently played will be populated here -->
+            </div>
+        </div>
+
+        <!-- Playlists Section -->
+        <div class="bg-white rounded-lg shadow-lg p-6">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-2xl font-bold">Your Playlists</h2>
+                <button onclick="createPlaylist()" class="bg-black text-white px-4 py-2 rounded-full hover:bg-gray-800 transition-colors">
+                    New Playlist
+                </button>
+            </div>
+            <div id="playlistsList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <!-- Playlists will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/profile.js"></script>
+</body>
+</html>
